@@ -1,1 +1,0 @@
-git log --stat --after="2015-5-12" --before="2016-5-12"
