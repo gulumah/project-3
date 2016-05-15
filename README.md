@@ -1,6 +1,7 @@
-# Project-3
+# Mining Chromium’s version control system 
 
-This project is created for course purposes.
+In this project, component/metrics directory belonging to the Chromium project has been analyzed according to the specific time period.
+https://chromium.googlesource.com/chromium/src/components/metrics
 
 ## Prerequisites
 
@@ -15,7 +16,7 @@ This project is created for course purposes.
 - gnuplot
 
 
-Scripts performs installations
+Scripts perform installations
 
 ## Run
 
