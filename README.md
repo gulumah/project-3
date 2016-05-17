@@ -14,8 +14,10 @@ https://chromium.googlesource.com/chromium/src/components/metrics
 - python
 
 - gnuplot
+
+- social network visualizer
  
--social network visualizer
+
 
 
 Scripts perform installations
