@@ -25,7 +25,7 @@ int main(){
 	    in_line >> commitNumber >> name;
 	    totalCommit+=commitNumber;
 	    if(totalCommit <= showlimit)
-	    	ofile << name << " " << commitNumber << " ("<<setprecision(3)<<(commitNumber * 100)/totalCommit<<"%)" <<endl;
+	    	ofile << name << " " << commitNumber << " ("<<setprecision(3)<<(commitNumber * 100)/showlimit<<"%)" <<endl;
 	    else
 			break;
 	}
