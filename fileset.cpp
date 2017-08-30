@@ -9,7 +9,7 @@ using namespace std;
 int main(){
 	cout<<"Here we are after all this "<<endl;
 	cout<<"What is all about?"<<endl;
-	cout<<"No one knows"<<endl;
+	cout<<"Lets forget everthing"<<endl;
     int **matrix;
     int usercounter=0, filecounter=0, userindex, fileindex;
     string line, uname;
