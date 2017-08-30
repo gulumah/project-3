@@ -7,6 +7,7 @@
 #include <cstring>
 using namespace std;
 int main(){
+	cout<<"Here we are"<<endl;
     int **matrix;
     int usercounter=0, filecounter=0, userindex, fileindex;
     string line, uname;
