@@ -5,7 +5,6 @@
 #include <iomanip>
 using namespace std;
 int main(){
-	cout<<"Lets finish"<<endl;
 	double showlimit,commitNumber, totalCommit=0,total;
 	string name,line;
 	ifstream file;  
