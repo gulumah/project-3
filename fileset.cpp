@@ -7,7 +7,7 @@
 #include <cstring>
 using namespace std;
 int main(){
-	cout<<"Here we are after all this "<<endl;
+	cout<<"Here we are after all this time "<<endl;
 	cout<<"What is all about?"<<endl;
 	cout<<"Lets forget everthing"<<endl;
     int **matrix;
