@@ -83,7 +83,8 @@ int main(){
     for (int i = 0; i < users.size(); ++i)
         delete [] adj[i];
     delete [] adj;
-
+    
+    cout<<"Last session"<<endl;
     return 0;
 }
 
