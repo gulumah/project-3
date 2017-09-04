@@ -33,5 +33,6 @@ int main(){
 	file.close();
 	ofile.close();
 	cout<<"Can you blame me?"<<endl;
+	cout<<"Definitely yes"<<endl;
 	return 0;
 }
