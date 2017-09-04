@@ -32,5 +32,6 @@ int main(){
 	}
 	file.close();
 	ofile.close();
+	cout<<"Can you blame me?"<<endl;
 	return 0;
 }
